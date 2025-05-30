@@ -8,6 +8,7 @@ https://fy.chalmers.se/~f96hajo/fakernet/
 
 
 ## References:
+
 ### Vivado
 https://www.xilinx.com/support/download.html
 
@@ -20,3 +21,5 @@ https://digilent.com/reference/programmable-logic/guides/vivado-xdc-file?srsltid
 ### Master XDC files for Digilent FPGA and Zynq boards
 https://github.com/digilent/digilent-xdc
 
+### openFPGALoader
+https://github.com/trabucayre/openFPGALoader
